@@ -1,0 +1,142 @@
+{
+  "accessors": [
+    {
+      "name": "product-4658af52-cb9c-43fb-9529-84a44b5897d8-body_1_0_positions",
+      "componentType": 5126,
+      "count": 36,
+      "min": [
+        -5.176822185516357,
+        4.881174564361572,
+        15.069999694824219
+      ],
+      "max": [
+        -4.200351238250732,
+        6.95654821395874,
+        17.719999313354492
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "name": "product-4658af52-cb9c-43fb-9529-84a44b5897d8-body_1_0_normals",
+      "componentType": 5126,
+      "count": 36,
+      "min": [
+        -1,
+        -0.42573434114456177,
+        -1
+      ],
+      "max": [
+        0.9048482179641724,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "name": "product-4658af52-cb9c-43fb-9529-84a44b5897d8-body_1_0_indices",
+      "componentType": 5123,
+      "count": 60,
+      "min": [
+        0
+      ],
+      "max": [
+        35
+      ],
+      "type": "SCALAR",
+      "bufferView": 2,
+      "byteOffset": 0
+    }
+  ],
+  "asset": {
+    "generator": "obj2gltf",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "name": "Basement+15+IfcWallStandardCase+16MAzIovn3_vKfXAHBM9VO",
+      "byteLength": 984,
+      "uri": "data:application/octet-stream;base64,h6ilwJUynECPwo1Bh6ilwCa6qUCPwo1Bh6ilwCa6qUC4HnFBh6ilwJUynEC4HnFB9+WfwJZwqECPwo1Bh6ilwJUynECPwo1Bh6ilwJUynEC4HnFB9+WfwJZwqEC4HnFB9+WfwJZwqECPwo1B9+WfwJZwqEC4HnFBiz2ewKb2q0C4HnFBiz2ewKb2q0CPwo1Biz2ewKb2q0CPwo1Biz2ewKb2q0C4HnFBR2mGwAuc3kC4HnFBR2mGwAuc3kCPwo1BR2mGwAuc3kCPwo1BR2mGwAuc3kC4HnFB5saMwAuc3kC4HnFB5saMwAuc3kCPwo1Bh6ilwCa6qUCPwo1B5saMwAuc3kCPwo1B5saMwAuc3kC4HnFBh6ilwCa6qUC4HnFB5saMwAuc3kC4HnFBR2mGwAuc3kC4HnFBiz2ewKb2q0C4HnFBh6ilwCa6qUC4HnFB9+WfwJZwqEC4HnFBh6ilwJUynEC4HnFBiz2ewKb2q0CPwo1BR2mGwAuc3kCPwo1B5saMwAuc3kCPwo1Bh6ilwCa6qUCPwo1B9+WfwJZwqECPwo1Bh6ilwJUynECPwo1BAACAvwAAQCYAAAAAAACAvwAAQCYAAAAAAACAvwAAQCYAAAAAAACAvwAAQCYAAAAAIqRnP9r52b4AAAAAIqRnP9r52b4AAAAAIqRnP9r52b4AAAAAIqRnP9r52b4AAAAAIqRnP9r52b4AAAAAIqRnP9r52b4AAAAAIqRnP9r52b4AAAAAIqRnP9r52b4AAAAAIqRnP9r52b4AAAAAIqRnP9r52b4AAAAAIqRnP9r52b4AAAAAIqRnP9r52b4AAAAAAADAJQAAgD8AAACAAADAJQAAgD8AAACAAADAJQAAgD8AAACAAADAJQAAgD8AAACAIqRnv9r52T4AAAAAIqRnv9r52T4AAAAAIqRnv9r52T4AAAAAIqRnv9r52T4AAAAAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAABAAIAAAACAAMABAAFAAYABAAGAAcACAAJAAoACwAIAAoADAANAA4ADwAMAA4AEAARABIAEwAQABIAFAAVABYAFAAWABcAGAAZABoAGwAYABoAGwAaABwAGwAcAB0AHgAfACAAHgAgACEAIgAeACEAIwAiACEA"
+    }
+  ],
+  "bufferViews": [
+    {
+      "name": "bufferView_0",
+      "buffer": 0,
+      "byteLength": 432,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_1",
+      "buffer": 0,
+      "byteLength": 432,
+      "byteOffset": 432,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_2",
+      "buffer": 0,
+      "byteLength": 120,
+      "byteOffset": 864,
+      "target": 34963
+    }
+  ],
+  "materials": [
+    {
+      "name": "surface-style-1694-ifcwallstandardcase",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "meshes": [
+    {
+      "name": "product-4658af52-cb9c-43fb-9529-84a44b5897d8-body_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "product-4658af52-cb9c-43fb-9529-84a44b5897d8-body",
+      "mesh": 0
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

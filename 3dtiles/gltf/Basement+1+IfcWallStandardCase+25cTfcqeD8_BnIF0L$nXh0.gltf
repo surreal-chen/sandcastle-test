@@ -1,0 +1,142 @@
+{
+  "accessors": [
+    {
+      "name": "product-8599da66-d283-48f8-bc52-3c057fc61ac0-body_1_0_positions",
+      "componentType": 5126,
+      "count": 30,
+      "min": [
+        -8.979984283447266,
+        -25.07117462158203,
+        15.069999694824219
+      ],
+      "max": [
+        -8.341646194458008,
+        24.575944900512695,
+        17.719999313354492
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "name": "product-8599da66-d283-48f8-bc52-3c057fc61ac0-body_1_0_normals",
+      "componentType": 5126,
+      "count": 30,
+      "min": [
+        -0.9999433755874634,
+        -1,
+        -1
+      ],
+      "max": [
+        0.9999433755874634,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "name": "product-8599da66-d283-48f8-bc52-3c057fc61ac0-body_1_0_indices",
+      "componentType": 5123,
+      "count": 48,
+      "min": [
+        0
+      ],
+      "max": [
+        29
+      ],
+      "type": "SCALAR",
+      "bufferView": 2,
+      "byteOffset": 0
+    }
+  ],
+  "asset": {
+    "generator": "obj2gltf",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "name": "Basement+1+IfcWallStandardCase+25cTfcqeD8_BnIF0L$nXh0",
+      "byteLength": 816,
+      "uri": "data:application/octet-stream;base64,+DkHwcSRyMGPwo1B+DkHwcSRyMG4HnFBYncFwcSRyMG4HnFBYncFwcSRyMGPwo1BYncFwcSRyMGPwo1BYncFwcSRyMG4HnFBo+YNwUG6w0G4HnFBo+YNwUG6w0GPwo1Bo+YNwUG6w0GPwo1Bo+YNwUG6w0G4HnFBbusNwYmbxEG4HnFBbusNwYmbxEGPwo1BbusNwYmbxEGPwo1BbusNwYmbxEG4HnFBBK4PwYmbxEG4HnFBBK4PwYmbxEGPwo1BBK4PwYmbxEGPwo1BBK4PwYmbxEG4HnFB+DkHwcSRyMG4HnFB+DkHwcSRyMGPwo1BBK4PwYmbxEG4HnFBbusNwYmbxEG4HnFBo+YNwUG6w0G4HnFB+DkHwcSRyMG4HnFBYncFwcSRyMG4HnFBo+YNwUG6w0GPwo1BbusNwYmbxEGPwo1BBK4PwYmbxEGPwo1B+DkHwcSRyMGPwo1BYncFwcSRyMGPwo1BgH8cqgAAgL8AAAAAgH8cqgAAgL8AAAAAgH8cqgAAgL8AAAAAgH8cqgAAgL8AAAAASvx/PylYLjwAAAAASvx/PylYLjwAAAAASvx/PylYLjwAAAAASvx/PylYLjwAAAAASvx/PylYLjwAAAAASvx/PylYLjwAAAAASvx/PylYLjwAAAAASvx/PylYLjwAAAAAAFqCKQAAgD8AAAAAAFqCKQAAgD8AAAAAAFqCKQAAgD8AAAAAAFqCKQAAgD8AAAAASvx/vylYLrwAAAAASvx/vylYLrwAAAAASvx/vylYLrwAAAAASvx/vylYLrwAAAAAAAAAgAAAAAAAAIC/AAAAgAAAAAAAAIC/AAAAgAAAAAAAAIC/AAAAgAAAAAAAAIC/AAAAgAAAAAAAAIC/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAABAAIAAwAAAAIABAAFAAYABwAEAAYACAAJAAoACwAIAAoADAANAA4ADwAMAA4AEAARABIAEwAQABIAFAAVABYAFAAWABcAFwAWABgAGQAaABsAHAAZABsAHQAZABwA"
+    }
+  ],
+  "bufferViews": [
+    {
+      "name": "bufferView_0",
+      "buffer": 0,
+      "byteLength": 360,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_1",
+      "buffer": 0,
+      "byteLength": 360,
+      "byteOffset": 360,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_2",
+      "buffer": 0,
+      "byteLength": 96,
+      "byteOffset": 720,
+      "target": 34963
+    }
+  ],
+  "materials": [
+    {
+      "name": "surface-style-1694-ifcwallstandardcase",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "meshes": [
+    {
+      "name": "product-8599da66-d283-48f8-bc52-3c057fc61ac0-body_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "product-8599da66-d283-48f8-bc52-3c057fc61ac0-body",
+      "mesh": 0
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

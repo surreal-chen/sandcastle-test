@@ -1,0 +1,142 @@
+{
+  "accessors": [
+    {
+      "name": "product-055e86f2-2d2c-4322-900b-dac16094d5ec-body_1_0_positions",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        -2.8346686363220215,
+        -1.9960628747940063,
+        15.069999694824219
+      ],
+      "max": [
+        -1.6746686697006226,
+        -1.8160629272460938,
+        17.719999313354492
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "name": "product-055e86f2-2d2c-4322-900b-dac16094d5ec-body_1_0_normals",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "name": "product-055e86f2-2d2c-4322-900b-dac16094d5ec-body_1_0_indices",
+      "componentType": 5123,
+      "count": 36,
+      "min": [
+        0
+      ],
+      "max": [
+        23
+      ],
+      "type": "SCALAR",
+      "bufferView": 2,
+      "byteOffset": 0
+    }
+  ],
+  "asset": {
+    "generator": "obj2gltf",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "name": "Basement+51+IfcWallStandardCase+05NeRoBIn38f0Bsi5WbDNi",
+      "byteLength": 648,
+      "uri": "data:application/octet-stream;base64,i1vWv/1+/7+Pwo1BNms1wP1+/7+Pwo1BNms1wP1+/7+4HnFBi1vWv/1+/7+4HnFBi1vWv/1+/7+Pwo1Bi1vWv/1+/7+4HnFBi1vWv8B06L+4HnFBi1vWv8B06L+Pwo1Bi1vWv8B06L+Pwo1Bi1vWv8B06L+4HnFBNms1wMB06L+4HnFBNms1wMB06L+Pwo1BNms1wMB06L+Pwo1BNms1wMB06L+4HnFBNms1wP1+/7+4HnFBNms1wP1+/7+Pwo1Bi1vWv8B06L+4HnFBi1vWv/1+/7+4HnFBNms1wP1+/7+4HnFBNms1wMB06L+4HnFBNms1wP1+/7+Pwo1Bi1vWv/1+/7+Pwo1Bi1vWv8B06L+Pwo1BNms1wMB06L+Pwo1BAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAACAPwAAAAAAAACAAACAPwAAAAAAAACAAACAPwAAAAAAAACAAACAPwAAAAAAAACAAAAAgAAAgD8AAAAAAAAAgAAAgD8AAAAAAAAAgAAAgD8AAAAAAAAAgAAAgD8AAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAABAAIAAAACAAMABAAFAAYABwAEAAYACAAJAAoACwAIAAoADAANAA4ADwAMAA4AEAARABIAEwAQABIAFAAVABYAFAAWABcA"
+    }
+  ],
+  "bufferViews": [
+    {
+      "name": "bufferView_0",
+      "buffer": 0,
+      "byteLength": 288,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_1",
+      "buffer": 0,
+      "byteLength": 288,
+      "byteOffset": 288,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_2",
+      "buffer": 0,
+      "byteLength": 72,
+      "byteOffset": 576,
+      "target": 34963
+    }
+  ],
+  "materials": [
+    {
+      "name": "surface-style-1694-ifcwallstandardcase",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "meshes": [
+    {
+      "name": "product-055e86f2-2d2c-4322-900b-dac16094d5ec-body_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "product-055e86f2-2d2c-4322-900b-dac16094d5ec-body",
+      "mesh": 0
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

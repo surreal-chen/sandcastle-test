@@ -1,0 +1,142 @@
+{
+  "accessors": [
+    {
+      "name": "product-4658af52-cb9c-43fb-9529-84a44b588dba-body_1_0_positions",
+      "componentType": 5126,
+      "count": 36,
+      "min": [
+        -6.499668598175049,
+        22.783937454223633,
+        15.069999694824219
+      ],
+      "max": [
+        9.775331497192383,
+        22.963937759399414,
+        17.719999313354492
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "name": "product-4658af52-cb9c-43fb-9529-84a44b588dba-body_1_0_normals",
+      "componentType": 5126,
+      "count": 36,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "name": "product-4658af52-cb9c-43fb-9529-84a44b588dba-body_1_0_indices",
+      "componentType": 5123,
+      "count": 60,
+      "min": [
+        0
+      ],
+      "max": [
+        35
+      ],
+      "type": "SCALAR",
+      "bufferView": 2,
+      "byteOffset": 0
+    }
+  ],
+  "asset": {
+    "generator": "obj2gltf",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "name": "Basement+5+IfcWallStandardCase+16MAzIovn3_vKfXAHBM8sw",
+      "byteLength": 984,
+      "uri": "data:application/octet-stream;base64,wmccQSW2t0GPwolBwmccQSW2t0G4HnFBIr0NwCW2t0GPwolBIr0NwCW2t0GPwo1BSf3PwCW2t0GPwo1BSf3PwCW2t0G4HnFBSf3PwIFFtkG4HnFBSf3PwCW2t0G4HnFBwmccQSW2t0G4HnFBwmccQYFFtkG4HnFBSf3PwCW2t0GPwo1BSf3PwCW2t0G4HnFBSf3PwIFFtkG4HnFBSf3PwIFFtkGPwo1BIr0NwCW2t0GPwo1BSf3PwIFFtkGPwo1BIr0NwIFFtkGPwo1BSf3PwCW2t0GPwo1BIr0NwIFFtkGPwolBIr0NwCW2t0GPwo1BIr0NwIFFtkGPwo1BIr0NwCW2t0GPwolBwmccQYFFtkGPwolBwmccQSW2t0GPwolBIr0NwIFFtkGPwolBIr0NwCW2t0GPwolBwmccQSW2t0GPwolBwmccQYFFtkGPwolBwmccQSW2t0G4HnFBwmccQYFFtkG4HnFBIr0NwIFFtkGPwo1BSf3PwIFFtkGPwo1BIr0NwIFFtkGPwolBSf3PwIFFtkG4HnFBwmccQYFFtkGPwolBwmccQYFFtkG4HnFBAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAABAAIAAwACAAQABAACAAUAAgABAAUABgAHAAgACQAGAAgACgALAAwADQAKAAwADgAPABAADgARAA8AEgATABQAEgAVABMAFgAXABgAGAAXABkAGgAbABwAGwAdABwAHgAfACAAHwAhACAAIgAgACMAIAAhACMA"
+    }
+  ],
+  "bufferViews": [
+    {
+      "name": "bufferView_0",
+      "buffer": 0,
+      "byteLength": 432,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_1",
+      "buffer": 0,
+      "byteLength": 432,
+      "byteOffset": 432,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_2",
+      "buffer": 0,
+      "byteLength": 120,
+      "byteOffset": 864,
+      "target": 34963
+    }
+  ],
+  "materials": [
+    {
+      "name": "surface-style-1694-ifcwallstandardcase",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "meshes": [
+    {
+      "name": "product-4658af52-cb9c-43fb-9529-84a44b588dba-body_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "product-4658af52-cb9c-43fb-9529-84a44b588dba-body",
+      "mesh": 0
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
